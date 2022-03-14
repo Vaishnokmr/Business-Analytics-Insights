@@ -15,7 +15,7 @@ The main goal of this project is to perform extensive Analytics & Insights on Re
 
 ## Insights
 * For Code : [Click here](https://drive.google.com/file/d/1X-Kug6C2FP67yzAfdSQLwXMtWeX7Ouii/view?usp=sharing)
-* For Visualization : [Click here](https://public.tableau.com/app/profile/vaishno.kumar/viz/ZomatoBangloreBusinessInsights/Dashboard1)
+* For Visualization : [Click here](https://public.tableau.com/app/profile/vaishno.kumar/viz/InsightsVisualization/Dashboard1?publish=yes)
 
 
 ## Installation
