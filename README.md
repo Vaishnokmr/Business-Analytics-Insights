@@ -7,7 +7,7 @@ The main goal of this project is to perform extensive Analytics & Insights on Re
   * [Setup](#setup)
   * [Insights](#insights)
   * [Installation](#installation)
-  * [Background Information](#Background Information)
+  * [Task](#task)
 
 ## Project
 * Project Title : Analytics & Insights
