@@ -24,7 +24,7 @@ Installing Jupyter Notebook: https://jupyter.readthedocs.io/en/latest/install.ht
 Installing Pandas library: https://pandas.pydata.org/pandas-docs/stable/install.html
 
 ## Insights
-* For Code : [Click here](https://drive.google.com/file/d/1X-Kug6C2FP67yzAfdSQLwXMtWeX7Ouii/view?usp=sharing)
+* For Code : [Click here](https://colab.research.google.com/drive/1NHNGjlCxPC6pZODV0w0cWieTDdlWW1Z9?usp=sharing)
 * For Visualization : [Click here](https://public.tableau.com/app/profile/vaishno.kumar/viz/InsightsVisualization/Dashboard1?publish=yes)
 
 
