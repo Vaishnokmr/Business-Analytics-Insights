@@ -62,7 +62,7 @@ To answer these questions we walk through many different pandas & matplotlib met
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 [<img target="_blank" src="https://img.icons8.com/color/48/000000/tableau-software.png" width=100>](https://www.tableau.com/)
-[<img target="_blank" src="[https://img.icons8.com/color/48/000000/tableau-software.png]" width=100>](https://pandas.pydata.org/)
+[<img target="_blank" src="https://icons8.com/icon/xSkewUSqtErH/pandas" width=100>](https://pandas.pydata.org/)
 
 #### Thank You for reading!
 <a href="https://www.animatedimages.org/cat-thank-you-466.htm"><img src="https://www.animatedimages.org/data/media/466/animated-thank-you-image-0071.gif" border="0" alt="animated-thank-you-image-0071" /></a>
