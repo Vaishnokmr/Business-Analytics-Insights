@@ -4,14 +4,24 @@ The main goal of this project is to perform extensive Analytics & Insights on Re
 
 ## Table of Content
   * [Project](#project)
+  * [Setup](#setup)
   * [Insights](#insights)
   * [Installation](#installation)
-  * [Database](#database)
+  * [Background Information](#Background Information)
 
 ## Project
 * Project Title : Analytics & Insights
 * Technologies : Exploratory Data Analysis(EDA)
 * Domain : E-commerce
+
+## Setup
+
+To access all of the files I recommend you fork this repo and then clone it locally. Instructions on how to do this can be found here: https://help.github.com/en/github/getting-started-with-github/fork-a-repo
+
+The other option is to click the green "clone or download" button and then click "Download ZIP". You then should extract all of the files to the location you want to edit your code.
+
+Installing Jupyter Notebook: https://jupyter.readthedocs.io/en/latest/install.html <br/>
+Installing Pandas library: https://pandas.pydata.org/pandas-docs/stable/install.html
 
 ## Insights
 * For Code : [Click here](https://drive.google.com/file/d/1X-Kug6C2FP67yzAfdSQLwXMtWeX7Ouii/view?usp=sharing)
@@ -24,15 +34,36 @@ The Code is written in Python 3.9 . If you don't have Python installed you can f
 pip install -r requirements.txt
 ```
 
-## Database 
-Given dataset for this project which is a MongoDb database.
+## Background Information:
 
+This repo goes with [my video](https://youtu.be/eMOA1pPVUc4) on "Solving real world data science videos with Python Pandas!". Here is some information on that video.
+
+In this video we use Python Pandas & Python Matplotlib to analyze and answer business questions about 12 months worth of sales data. The data contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc. 
+
+We start by cleaning our data. Tasks during this section include:
+- Drop NaN values from DataFrame
+- Removing rows based on a condition
+- Change the type of columns (to_numeric, to_datetime, astype)
+
+Once we have cleaned up our data a bit, we move the data exploration section. In this section we explore 5 high level business questions related to our data:
+- What was the best month for sales? How much was earned that month?
+- What city sold the most product?
+- What time should we display advertisemens to maximize the likelihood of customer’s buying product?
+- What products are most often sold together?
+- What product sold the most? Why do you think it sold the most?
+
+To answer these questions we walk through many different pandas & matplotlib methods. They include:
+- Concatenating multiple csvs together to create a new DataFrame (pd.concat)
+- Adding columns
+- Parsing cells as strings to make new columns (.str)
+- Using the .apply() method
+- Using groupby to perform aggregate analysis
+- Plotting bar charts and lines graphs to visualize our results
+- Labeling our graphs
 
 ## Technologies Used
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
-
-
 
 [<img target="_blank" src="https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png" width=100>](https://www.mongodb.com/)[<img target="_blank" src="https://img.icons8.com/color/48/000000/tableau-software.png" width=100>](https://www.tableau.com/)
 
