@@ -35,10 +35,7 @@ pip install -r requirements.txt
 ```
 
 ## Background Information:
-
-This repo goes with [my video](https://youtu.be/eMOA1pPVUc4) on "Solving real world data science videos with Python Pandas!". Here is some information on that video.
-
-In this video we use Python Pandas & Python Matplotlib to analyze and answer business questions about 12 months worth of sales data. The data contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc. 
+In this project we use Python Pandas & Python Matplotlib to analyze and answer business questions about 12 months worth of sales data. The data contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc. 
 
 We start by cleaning our data. Tasks during this section include:
 - Drop NaN values from DataFrame
@@ -64,8 +61,8 @@ To answer these questions we walk through many different pandas & matplotlib met
 ## Technologies Used
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
-
-[<img target="_blank" src="https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png" width=100>](https://www.mongodb.com/)[<img target="_blank" src="https://img.icons8.com/color/48/000000/tableau-software.png" width=100>](https://www.tableau.com/)
+[<img target="_blank" src="https://img.icons8.com/color/48/000000/tableau-software.png" width=100>](https://www.tableau.com/)
+[<img target="_blank" src="[https://img.icons8.com/color/48/000000/tableau-software.png]" width=100>](https://pandas.pydata.org/)
 
 #### Thank You for reading!
 <a href="https://www.animatedimages.org/cat-thank-you-466.htm"><img src="https://www.animatedimages.org/data/media/466/animated-thank-you-image-0071.gif" border="0" alt="animated-thank-you-image-0071" /></a>
